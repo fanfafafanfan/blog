@@ -43,8 +43,8 @@ module.exports = {
                   title: "「Comment」<%- frontmatter.title %>",
                   body:
                     "<%- frontmatter.title %>：<%-window.location.origin %><%- frontmatter.to.path || window.location.pathname %>",
-                  clientID: "Iv1.24015de76b835d55",
-                  clientSecret: "d08ab9cf24ebe2b2ca47f5cef6f47c2382ab5349",
+                  clientID: "0790390c69bdee4b04cd",
+                  clientSecret: "0a0587a7f96d2319d44dcaed387e02a7708abc26",
                   repo: "blog",
                   owner: "fanfafafanfan",
                   admin: ["fanfafafanfan"],

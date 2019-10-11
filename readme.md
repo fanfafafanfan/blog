@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/cat.png"
+heroImage: "/money.gif"
 tagline: "Wink wink."
 actionText: "进入笔记 →"
 actionLink: "/guide/"
